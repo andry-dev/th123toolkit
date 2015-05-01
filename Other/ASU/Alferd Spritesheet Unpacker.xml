@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AlferdSpritesheetUnpacker
+</name>
+</assembly>
+<members>
+<member name="P:SpriteSheetUnpacker.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:SpriteSheetUnpacker.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:SpriteSheetUnpacker.My.Resources.Resources.Advanced_Export_File_Format_Help">
+	<summary>
+  Looks up a localized string similar to --------------------------------------------------
+Simply add the file extension of the format you desire. For example, to export frames in the 'Personal Computer eXchange' format just enter the text:
+
+pcx
+--------------------------------------------------
+
+==================================================
+Alferd Spritesheet Unpacker has added support for a wide range of file formats using the third party application NConvert by Pierre-e Gougelet.
+
+http://www.xnview.com
+========================== [rest of string was truncated]";.
+</summary>
+</member><member name="T:SpriteSheetUnpacker.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
